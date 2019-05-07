@@ -17,3 +17,9 @@ Python Resources
 
 # Cheatsheets
 [Pythonsheeets](https://www.pythonsheets.com/)
+
+# Pycharm Tips
+## Change code font size using Mouse wheel
+    cntl + alt + s : General --> Change font size (Zoom) with Ctrl+Mouse Wheel <br>
+## Use Interactive Python
+    Tools --> Python console <br>
