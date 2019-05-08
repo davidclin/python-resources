@@ -14,6 +14,7 @@ Python Resources
 <br>
 [The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html)
 [Real Python Tutorial](https://realpython.com/)
+[The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 
 # Cheatsheets
 [Pythonsheeets](https://www.pythonsheets.com/)
