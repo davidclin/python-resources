@@ -12,8 +12,10 @@ Python Resources
 # Tutorials
 [Learn Python with Socratica (YouTube)](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) 
 <br>
-[The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html)
+[The Python Tutorial](https://docs.python.org/3.7/tutorial/index.html) 
+<br>
 [Real Python Tutorial](https://realpython.com/)
+<br>
 [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 
 # Cheatsheets
