@@ -44,7 +44,8 @@ As a best practice:
 <pre>
 pip3 --version
 pip3 --help
-pip3 list
+pip3 list [--outdated]
+pip3 show [name]
 </pre>
 
 
