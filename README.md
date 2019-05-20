@@ -88,6 +88,13 @@ Option 2 $ pip3 search [name]
 $ pip3 install [name]
 </pre>
 
+## Installing packages with version specifiers
+<pre>
+Examples:
+  $ pip3 install requests==2.1.4 (specific version)
+  $ pip3 install requests>=2,<3  (latest 2.x.x version)
+  $ pip3 install requests~=2.1.4 (any 2.1.X version >= 2.1.4)
+</pre>
 
 ## Identifying & Updating Outdated Packages
 <pre>
