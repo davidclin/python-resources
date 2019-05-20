@@ -31,9 +31,12 @@ Python Resources
 Use virtual environments
 
 ## Useful pip commands
+<pre>
 pip3 --version
 pip3 --help
 pip3 list
+</pre>
+
 
 ## Installing pip
 <pre>
