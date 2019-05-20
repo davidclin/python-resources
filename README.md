@@ -37,6 +37,8 @@ Virtual environments:
 
 As a best practice:
   - use virtual environments for all of your Python projects in order to store their dependencies
+  - and be mindful of what packages you install in a non-virtual environment as such package installs
+    will go into the global environment
 </pre>
 
 
