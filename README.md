@@ -106,7 +106,10 @@ More examples:
   - $ pip3 install git+https://github.com/davidclin/cloudcustodian-policies.git@master   (install from branch)
   - $ pip3 install git+https://github.com/davidclin/cloudcustodian-policies.git@3adef5ca (install from hash)
   - $ pip3 install git+https://github.com/davidclin/cloudcustodian-policies.git@v1.10.2  (install from tag/release)
-  </pre>
+
+Note: Handle with care as installing using this approach is typically for accessing the "cutting edge" packages that may still be in   
+      development. If possible, try and install packages from PyPI. 
+</pre>
 
 ## Identifying & Updating Outdated Packages
 <pre>
