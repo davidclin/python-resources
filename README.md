@@ -98,6 +98,16 @@ Examples:
   $ pip3 install requests~=2.1.4 (any 2.1.X version >= 2.1.4)
 </pre>
 
+## Installing packages from Git (and other sources)
+<pre>
+$ pip3 install git+https://github.com/user/repo.git@branch
+
+More examples:
+  - $ pip3 install git+https://github.com/davidclin/cloudcustodian-policies.git@master   (install from branch)
+  - $ pip3 install git+https://github.com/davidclin/cloudcustodian-policies.git@3adef5ca (install from hash)
+  - $ pip3 install git+https://github.com/davidclin/cloudcustodian-policies.git@v1.10.2  (install from tag/release)
+  </pre>
+
 ## Identifying & Updating Outdated Packages
 <pre>
 $ pip3 list --outdated
