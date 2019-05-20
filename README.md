@@ -28,7 +28,17 @@ Python Resources
     Tools --> Python console <br>
     
 # Managing Python Dependicies
-Use virtual environments
+
+## Why you should use virtual environments
+<pre>
+Virtual environments:
+  - keep your project dependencies isolated
+  - help you avoid version conflicts between packages and different version of the Python runtime
+
+As a best practice:
+  - use virtual environments for all of your Python projects in order to store their dependencies
+</pre>
+
 
 ## Useful pip commands
 <pre>
