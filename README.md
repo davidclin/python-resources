@@ -1,6 +1,9 @@
 # python-resources
 Python Resources
 
+# Why it's always a good idea to pin your Python dependencies
+https://nvie.com/posts/pin-your-packages/
+
 # IDEs
 [Pycharm](https://www.jetbrains.com/pycharm/)
 
