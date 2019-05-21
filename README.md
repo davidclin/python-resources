@@ -56,6 +56,9 @@ pip3 --version
 pip3 --help
 pip3 list [--outdated]
 pip3 show [name]
+pip3 freeze > requirements.txt
+pip3 install -r requirements.txt
+
 </pre>
 
 
