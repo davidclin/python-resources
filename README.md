@@ -64,6 +64,10 @@ $ pip install virtualenv
 $ virtualenv venv
 $ source venv/bin/activate
 
+Windows
+C:\> python -m venv venv
+C:\> venv\Scripts\activate
+
 </pre>
 
 
