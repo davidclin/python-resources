@@ -37,6 +37,8 @@ https://nvie.com/posts/pin-your-packages/
 https://hynek.me/articles/python-app-deps-2018/
 
 
+# Virtual Environments
+
 ## Why you should use virtual environments
 <pre>
 Virtual environments:
@@ -47,6 +49,21 @@ As a best practice:
   - use virtual environments for all of your Python projects in order to store their dependencies
   - and be mindful of what packages you install in a non-virtual environment as such package installs
     will go into the global environment
+</pre>
+
+## Creating a virtual environment
+<pre>
+Python 3.3+
+$ mkdir foobar
+$ cd foobar
+$ python3 -m venv venv
+$ source venv/bin/activate
+
+Python 2.x
+$ pip install virtualenv
+$ virtualenv venv
+$ source venv/bin/activate
+
 </pre>
 
 
