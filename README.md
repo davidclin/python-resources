@@ -39,6 +39,14 @@ https://hynek.me/articles/python-app-deps-2018/
 
 # Virtual Environments
 
+## Useful commands
+<pre>
+python3 -m venv ./venv    (invoked within a project directory)
+source venv/bin/activate  (activates virtual environment)
+deactivate                (leaves virtual environment)
+rm -rf venv               (destroys virtual environment)
+</pre>
+
 ## Why you should use virtual environments
 <pre>
 Virtual environments:
@@ -67,7 +75,6 @@ $ source venv/bin/activate
 Windows
 C:\> python -m venv venv
 C:\> venv\Scripts\activate
-
 </pre>
 
 
