@@ -58,7 +58,7 @@ pip3 list [--outdated]
 pip3 show [name]
 pip3 freeze > requirements.txt
 pip3 install -r requirements.txt
-
+pip-comipile & pip-sync
 </pre>
 
 
