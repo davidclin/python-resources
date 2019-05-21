@@ -32,6 +32,11 @@ https://nvie.com/posts/pin-your-packages/
     
 # Managing Python Dependicies
 
+
+## Python Application Dependency Management in 2018
+https://hynek.me/articles/python-app-deps-2018/
+
+
 ## Why you should use virtual environments
 <pre>
 Virtual environments:
