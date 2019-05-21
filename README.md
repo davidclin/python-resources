@@ -83,6 +83,7 @@ C:\> venv\Scripts\activate
 pip3 --version
 pip3 --help
 pip3 list [--outdated]
+pip3 install [name]
 pip3 show [name]
 pip3 freeze > requirements.txt   (captures all dependencies, including secondary dependencies and their exact version numbers)
 pip3 install -r requirements.txt
