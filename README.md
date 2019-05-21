@@ -84,7 +84,7 @@ pip3 --version
 pip3 --help
 pip3 list [--outdated]
 pip3 show [name]
-pip3 freeze > requirements.txt
+pip3 freeze > requirements.txt   (captures all dependencies, including secondary dependencies and their exact version numbers)
 pip3 install -r requirements.txt
 pip-comipile & pip-sync
 </pre>
